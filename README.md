@@ -210,6 +210,14 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
+## ScreenShots ✨
+
+<img src='screenshots/dashboard.png'>
+
+<strong>ScreenShot From the Tool</strong>
+
+---
+
 <div align="center">
 Built with Python 🐍 | For educational & defensive security purposes only
 </div>
